@@ -4,6 +4,12 @@
 
 ---
 
+## 🚀 **Demo en Vivo**
+
+🌐 **Aplicación Desplegada**: [https://gpx-front-8rip.vercel.app/](https://gpx-front-8rip.vercel.app/)
+
+---
+
 ## 📦 Tecnologías y herramientas principales
 
 * **Framework:** [Next.js](https://nextjs.org/)
