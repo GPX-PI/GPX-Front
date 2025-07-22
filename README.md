@@ -84,11 +84,10 @@ El login está diseñado para permitir ingreso solo a usuarios autorizados, como
 * `UserCard`: Tarjeta de perfil con botones personalizables.
 * `CompetenceRow`: Fila de resultados o clasificaciones.
 * `VideoCard`: Tarjeta con video y datos de video, toma URL de youtube y muestra el video.
-* `PriceRow`: Fila de costos con soporte para despliegue de múltiples entradas.
+* `EventDescriptionCard`: Tarjeta con info, imagen y detalles del evento personalizables.
 
 ### 🧳 Organisms
 
-* `Layout`: Estructura base para la aplicación.
 * `ControlPointRegister`: Vista para registrar paso de participantes.
 * `UpcomingEvents`: Vista con tarjetas de eventos próximos.
 * `EventDetails`: Descripción de un evento seleccionado.
